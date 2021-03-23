@@ -1,2 +1,3 @@
 # HB-assistant-Coin-information
 “HB assistant-Coin information”technical support
+"HB assistant-Coin information" is an app for viewing currency data information. On the "coin" page, you can view the latest quotation information of digital currency. On the "circle" page, you can read the relevant developments of virtual currency published by others, and also publish your own opinions. We provide a reporting and shielding mechanism to supervise the content issued by users. Users can also read some push related articles on our platform. This platform only provides information reading, does not support trading function, hope to bring you a good experience…For any comments and suggestions, please contact us:“HB assistant-Coin information” official email:huayixianke@163.com
